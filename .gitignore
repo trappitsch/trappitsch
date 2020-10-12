@@ -114,6 +114,10 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Sublimetext
+.sublime-project
+.sublime-workspace
+
 # Rope project settings
 .ropeproject
 
