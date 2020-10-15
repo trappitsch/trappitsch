@@ -1,6 +1,6 @@
-### Welcome 🙃 (but you might be lost...)
+### Welcome 🙃
 
-...if not, here's a list of fun stuff!
+Here's some fun stuff... enjoy!
 
 <table><tr><td valign="top" width="33%">
 
@@ -9,7 +9,7 @@
  - [**iniabu**](https://github.com/galactic-forensics/iniabu):  
    Python API to interact with various solar abundances,
    calculate isotope ratios, etc. 
-   *Want to beta-test & propose ideas? Awesome* 
+   *Want to test & propose ideas? Awesome!*  
    [Contact me](mailto:reto@galactic-forensics.space)
  - **Presolar grain database**:  
    Planning... Python API (later GUI as well) to interact
@@ -31,7 +31,7 @@
    push to github, and actions take care of the packaging and releasing.
    For people like me that are too lazy to do it manually...
  - [**Coordinate Transformation**](https://github.com/trappitsch/CoordinateTransformation):
-   No my prettiest code, but functional.
+   Not my prettiest code, but functional.
    Transform coordinates for finding your samples again in different instruments.
  - [**Other fun project**](https://galactic-forensics.space/resources/links/):
    More stuff that I didn't write, check it out! 🔭
