@@ -33,7 +33,7 @@ Here's some fun stuff... enjoy!
  - [**Coordinate Transformation**](https://github.com/trappitsch/CoordinateTransformation):
    Not my prettiest code, but functional.
    Transform coordinates for finding your samples again in different instruments.
- - [**Other fun project**](https://galactic-forensics.space/resources/links/):
+ - [**Other fun projects**](https://galactic-forensics.space/resources/links/):
    More stuff that I didn't write, check it out! 🔭
 
 </td></tr></table>
