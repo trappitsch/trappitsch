@@ -9,10 +9,9 @@ Here's some fun stuff... enjoy!
  - [**iniabu**](https://github.com/galactic-forensics/iniabu):  
    Python API to interact with various solar abundances,
    calculate isotope ratios, etc. 
-   *Want to test & propose ideas? Awesome!*  
-   [Contact me](mailto:reto@galactic-forensics.space)
- - **Presolar grain database**:  
-   Planning... Python API (later GUI as well) to interact
+   *Test, propose ideas, discuss, raise issues,... on the GitHub page!*
+ - [**stardustlib**](https://github.com/galactic-forensics/stardustlib):  
+   Planning... Python API (later maybe GUI as well) to interact
    with the new and updated [presolar grain database](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2140.pdf).
 
 </td><td valign="top" width="34%">
