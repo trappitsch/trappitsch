@@ -1,30 +1,34 @@
 ### Welcome 🙃
 
-Here's some fun stuff... enjoy!
+Here's **some** fun stuff... enjoy!
 
 <table><tr><td valign="top" width="33%">
 
 #### 🏗 Under development 🏗
 
- - [**iniabu**](https://github.com/galactic-forensics/iniabu):  
-   Python API to interact with various solar abundances,
-   calculate isotope ratios, etc. 
-   *Test, propose ideas, discuss, raise issues,... on the GitHub page!*
  - [**stardustlib**](https://github.com/galactic-forensics/stardustlib):  
    Planning... Python API (later maybe GUI as well) to interact
    with the new and updated [presolar grain database](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2140.pdf).
+
 
 </td><td valign="top" width="34%">
 
 #### ⚡ Current contributions ⚡
 
+ - [**iniabu**](https://github.com/galactic-forensics/iniabu) (Maintainer):  
+   Python API to interact with various solar abundances,
+   calculate isotope ratios, etc. 
+   *Test, propose ideas, discuss, raise issues,... on the GitHub page!*
+ - [**Origin of the Elements** :open_book:](https://github.com/galactic-forensics/lecture_origin_elements/):  
+   Class initially held at [Brandeis University](https://www.brandeis.edu)
+   in spring 2021.
  - [**InstrumentKit**](https://github.com/Galvant/InstrumentKit):  
    Instrument control from python - great help for everyday lab work!  
    *Currently extending the test suite for easier development.*
 
 </td><td valign="top" width="33%">
 
-#### ✨ Some fun projects ✨
+#### ✨ Fun projects ✨
  - [**fbs with github actions**](https://github.com/trappitsch/fbs-release-github-actions):  
    Write a PyQt python program, package it with [fbs](https://build-system.fman.io),
    push to github, and actions take care of the packaging and releasing.
