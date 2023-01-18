@@ -6,7 +6,7 @@ Here's **some** fun stuff... enjoy!
 
 #### 🏗 Under development 🏗
 
- - [**stardustlib**](https://github.com/galactic-forensics/stardustlib):  
+ - [**pgdTools**](https://github.com/galactic-forensics/pgdtools):  
    Planning... Python API (later maybe GUI as well) to interact
    with the new and updated [presolar grain database](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2140.pdf).
  - **DigOutBox**: Arduino based control box to drive devices 
@@ -18,13 +18,13 @@ Here's **some** fun stuff... enjoy!
 
 #### ⚡ Current contributions ⚡
 
+ - [**RIMSEval**](https://github.com/RIMS-Code/RIMSEval) (Maintainer):
+   Python package and [GUI](https://github.com/RIMS-Code/RIMSEvalGUI)
+   to analyze and evaluate resonance ionization mass spectrometry measurements.
  - [**iniabu**](https://github.com/galactic-forensics/iniabu) (Maintainer):  
    Python API to interact with various solar abundances,
    calculate isotope ratios, etc. 
    *Test, propose ideas, discuss, raise issues,... on the GitHub page!*
- - [**Scientific Instrumentation with Arduino** :open_book:](https://github.com/galactic-forensics/workshop_arduino_electronics):  
-   Class initially held at [Brandeis University](https://www.brandeis.edu)
-   in fall 2021.
  - [**InstrumentKit**](https://github.com/Galvant/InstrumentKit):  
    Instrument control from python - great help for everyday lab work!  
    *Currently extending the test suite for easier development.*
