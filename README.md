@@ -6,9 +6,9 @@ Here's **some** fun stuff... enjoy!
 
 #### 🏗 Under development 🏗
 
- - [**pgdTools**](https://github.com/galactic-forensics/pgdtools):  
-   Planning... Python API (later maybe GUI as well) to interact
-   with the new and updated [presolar grain database](https://www.hou.usra.edu/meetings/lpsc2020/pdf/2140.pdf).
+ - [**pgdTools**](https://github.com/NASA-Planetary-Science/pgdtools):  
+   Python API (later maybe GUI as well) to interact
+   with the new and updated presolar grain database.
  - **DigOutBox**: Arduino based control box to drive devices 
    using digital outputs... more to come soon!
 
@@ -27,7 +27,6 @@ Here's **some** fun stuff... enjoy!
    *Test, propose ideas, discuss, raise issues,... on the GitHub page!*
  - [**InstrumentKit**](https://github.com/Galvant/InstrumentKit):  
    Instrument control from python - great help for everyday lab work!  
-   *Currently extending the test suite for easier development.*
 
 </td><td valign="top" width="33%">
 
