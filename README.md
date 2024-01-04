@@ -16,7 +16,7 @@ Here's **some** fun stuff... enjoy!
 
 #### ⚡ Current contributions ⚡
 
-- *[*DigOutBox**](https://github.com/galactic-forensics/digoutbox) (Maintainer):
+- [**DigOutBox**](https://github.com/galactic-forensics/digoutbox) (Maintainer):
    Arduino based control box to drive devices
    using digital outputs (e.g., laser shutters).
  - [**RIMSEval**](https://github.com/RIMS-Code/RIMSEval) (Maintainer):
