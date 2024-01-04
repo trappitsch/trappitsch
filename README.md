@@ -9,8 +9,6 @@ Here's **some** fun stuff... enjoy!
  - [**pgdTools**](https://github.com/NASA-Planetary-Science/pgdtools):  
    Python API (later maybe GUI as well) to interact
    with the new and updated presolar grain database.
- - **DigOutBox**: Arduino based control box to drive devices 
-   using digital outputs... more to come soon!
 
 
 
@@ -18,6 +16,9 @@ Here's **some** fun stuff... enjoy!
 
 #### ⚡ Current contributions ⚡
 
+- *[*DigOutBox**](https://github.com/galactic-forensics/digoutbox) (Maintainer):
+   Arduino based control box to drive devices
+   using digital outputs (e.g., laser shutters).
  - [**RIMSEval**](https://github.com/RIMS-Code/RIMSEval) (Maintainer):
    Python package and [GUI](https://github.com/RIMS-Code/RIMSEvalGUI)
    to analyze and evaluate resonance ionization mass spectrometry measurements.
